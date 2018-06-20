@@ -11,7 +11,7 @@ while dia < valormaximo:
     dia += valorinicial * 2
     i += 1
 
-print "En {0} dias se alcanzo el valor maximo".format(i)
+print "En {0} dias se alcanzo el valor maximo".format(i-1)
 
 
 
